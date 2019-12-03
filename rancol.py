@@ -12,7 +12,7 @@ init()
 
 print("")
 
-width = int(input("How many squares do you want across the page? "))
+width = int(input("How many squares do you want across the page?"))
 
 print("")
 
